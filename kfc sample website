@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+       
+    <style>
+    * {
+    box-sizing: border-box;
+}
+
+.a2 {
+    font-family: "National 2 Regular";
+}
+
+.a1 {
+    height: 100px;
+}
+
+h3 {
+    position: ;
+    word-spacing: 10px;
+}
+
+.hrdemo {
+    width: 800px;
+    margin-left: 320px;
+    margin-top: -15px;
+}
+
+.card-img-top {
+    border-radius: 8px;
+    height: 200px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.cards-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.card img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.imgalign {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.demo3{
+   margin-left: 350px;
+   
+           }
+.demo2{
+margin-left: 170px;
+}
+.c1{
+
+    z-index: 1;
+}
+    </style>
+</head>
+
+<body>
+    <section class=" bg-light position-sticky c1" style="top: 0;">
+        <hr>
+        <div class="container-fluid  a2 text-center "">
+    <p> <img src="
+            https://images.ctfassets.net/wtodlh47qxpt/6qgKpWUOIsrIiazhk3cdmF/d60b4c20be69bab1f939bf33348b67e9/Find_KFC.svg"
+            alt="map" height="20px" width="30px">
+            <ion-icon name="images\location-outline.svg"></ion-icon>
+            Allow location access for local store menu and promos
+            <a href="#" "><button type=" button" class="bg-dark text-white rounded-pill">Set location</button></a></p>
+        </div>
+        <hr>
+        <div class="container ">
+            <div class="row">
+                <nav class="navbar navbar-expand-lg">
+                    <div class="container-fluid">
+                        <a href="#" class="navbar-brand text-danger ">
+                            <strong>
+                                <h4>KFC</h4>
+                            </strong></a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent">
+                            <span class="navbar-toggler-icon bg-primary"></span>
+                        </button>
+                        <div class="collapse navbar-collapse   " id="navbarSupportedContent">
+
+                            <ul class="navbar-nav navbar-right ">
+                                <li class="nav-item"><a href="http://"
+                                        class="nav-link p-3 mb-2 text-dark  "><strong>Menu</strong></a></li>
+                                <li class="nav-item"><a href="http://"
+                                        class="nav-link p-3 mb-2 text-dark"><strong>Deals</strong></a></li>
+                            </ul>
+                        </div>
+                        <button class="btn rounded-circle"><strong>Sign up</strong></button>
+                        <a href="#"> <img
+                                src="https://images.ctfassets.net/wtodlh47qxpt/6qtBVFuno7pdwOQ9RIvYm9/d13e9b7242980972cf49beddde2cc295/bucket_cart_icon.svg"
+                                 height="50px" width="40px"></a>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </section>
+        <div class="container-fluid bg-dark text-white p-3 text-center ">
+            <p><strong>LET'S ORDER FOR DELIVERY, PICK UP, OR DINE-IN</strong>
+                <a href="#" "><button type=" button" class="bg-danger text-white rounded-pill p-2 ">Start
+                    Order</button></a>
+            </p>
+        </div>
+    
+    <div class="container-fluid  p-0">
+        <img src="images\children.jpg" alt="demo" style="width: 100% ;">
+
+    </div>
+    <div class="container-fluid  text-black mt-0 a1">
+        <h2 style="margin:25px 10px 10px 100px; font-size: 40px;"><strong>WELCOME TO KFC!</strong> </h2>
+    </div>
+
+    <div class="container " style="height: 100px ;">
+        <h3 style="letter-spacing:-1.5px ;font-size :30px;;"><strong>BROWSE CATEGORIES</strong>
+            <hr class="hrdemo">
+        </h3>
+    </div>
+    <div class="container" style="margin-left:100px;">
+        <div class="row">
+            <div class="col-sm-3">
+                <img class="card-img-top "
+                    src="https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/categories/CAT208.jpg?ver=23.55"
+                    alt="Card image">
+                <div class="card-body">
+                    <h4 class="card-title ">PRADEEP</h4>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <img class="card-img-top "
+                    src="https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/categories/CAT86.jpg?ver=23.55"
+                    alt="Card image">
+                <div class="card-body">
+                    <h4 class="card-title">PRADEEP</h4>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <img class="card-img-top"
+                    src="https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/categories/CAT200.jpg?ver=23.55"
+                    alt="Card image">
+                <div class="card-body">
+                    <h4 class="card-title">PRADEEP</h4>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <img class="card-img-top"
+                    src="https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/categories/CAT190.jpg?ver=23.55"
+                    alt="Card image">
+                <div class="card-body">
+                    <h4 class="card-title">PRADEEP</h4>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <img class="card-img-top"
+                    src="https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/categories/CAT158.jpg?ver=23.55"
+                    alt="Card image">
+                <div class="card-body">
+                    <h4 class="card-title">PRADEEP</h4>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <img class="card-img-top"
+                    src="https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/categories/CAT99.jpg?ver=23.55"
+                    alt="Card image">
+                <div class="card-body">
+                    <h4 class="card-title">PRADEEP</h4>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <img class="card-img-top"
+                    src="https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/categories/CAT89.jpg?ver=23.55"
+                    alt="Card image">
+                <div class="card-body">
+                    <h4 class="card-title">PRADEEP</h4>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <img class="card-img-top" src="https://online.kfc.co.in/static/media/finger_lickin.fc21c805.svg"
+                    alt="Card image">
+                <div class="card-body">
+                    <h4 class="card-title">PRADEEP</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="container">
+
+    </div>
+    <div class="container-fluid bg-dark p-5  text-white" style="height: 200px;">
+        <h3 style="margin-left: 200px;"> OFFERS & DEALS</h3>
+    </div>
+    <div class="container-fluid bg-dark">
+    <div class="container-fluid bg-dark demo3 ">
+        <div class="row">
+            <div class="col-md-6">
+            <div id="carouselExampleCaptions" class="carousel slide " data-bs-ride="false">
+                <div class="carousel-indicators">
+                  <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                  <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                  <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/lg/CHKZINGER.jpg" class="demo2 d-block w-50 h-20 " alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                  
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img src="https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/lg/CHKZINGER.jpg" class=" demo2 d-block w-50 h-20" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                    
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img src="https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/offers/lg/CHKZINGER.jpg" class=" demo2 d-block w-50 h-20" alt="...">
+                    <div class="carousel-caption d-none d-md-block textx">
+                                        </div>
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="container-fluid bg-dark p-5">
+
+    </div>
+    <div class="container-fluid bg-dark text-white ">
+        <div class="row">
+            <div class="col-sm-3  text-black "">
+          <img class=" imgalign"
+                src="https://images.ctfassets.net/wtodlh47qxpt/25FSYFuEtGct8NSrtpKe6d/b602f6fe0bf294e6a6dff5d7648bf594/KFC_Logo.svg"
+                height="50px" width="50px">
+            </div>
+            <div class="col-sm-1  text-black">
+                pre>KFC Food
+                Menu
+                Order Lookup
+                Gift Card
+                Nutrition & Allergen
+            </div>
+            <div class="col-sm-1  text-black">
+                Support
+                Get Help
+                Contact Us
+                KFC Feedback
+                Privacy Policy</div>
+            <div class="col-sm-1  text-black">
+                Legal
+                Terms and Conditions
+                Privacy Policy
+                Disclaimer
+                Caution Notice</div>
+            <div class="col-sm-1  text-black">
+                KFC India
+                About KFC
+                KFC Care
+                Careers
+                Our Golden Past</div>
+            <div class="col-sm-1  text-black ">
+                <a href="" class="text-white "><img
+                        src="	https://images.ctfassets.net/wtodlh47qxpt/6qgKpWUOIsrIiazhk3cdmF/d60b4c20be69bab1f939bf33348b67e9/Find_KFC.svg">Find
+                    a KFC</a>
+            </div>
+            <div class="col-sm-1  text-black"><img
+                    src="https://images.ctfassets.net/wtodlh47qxpt/6BdZsyjLn64c06uCIE73d1/fb530f5d5231533b049463f6c7e8a2b1/google_play.svg">
+            </div>
+            <div class="col-sm-2 text-black " style="margin-left: 100px;"><img
+                    src="https://images.ctfassets.net/wtodlh47qxpt/em3mcMuAdXWlgucSJiTbS/d3ae7e51ed101d829e459355e255c47f/apple.svg">
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid bg-dark text-white text-center p-4 " style="font-size:12px;">
+        <hr>Copyright © KFC Corporation 2021 All Rights Reserved
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
