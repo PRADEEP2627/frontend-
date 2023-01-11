@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+.new1 {
+    font-family: "National 2 Regular";
+}
+
+.a1 {
+    height: 100px;
+}
+
+h3 {
+    position: ;
+    word-spacing: 10px;
+}
+
+.hrdemo {
+    width: 800px;
+    margin-left: 320px;
+    margin-top: -15px;
+}
+
+.card-img-top {
+    border-radius: 8px;
+    height: 200px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.cards-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.card img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.imgalign {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.demo3{
+   margin-left: 350px;
+   
+           }
+.demo2{
+margin-left: 170px;
+}
+.c1{
+
+    z-index: 1;
+}
